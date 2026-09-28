@@ -1,0 +1,2 @@
+Method,Accuracy,F1
+Stacking (LogReg),0.926,0.9220429623613409

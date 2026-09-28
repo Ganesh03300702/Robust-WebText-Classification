@@ -1,0 +1,3 @@
+Method,Accuracy,F1
+Soft Voting,0.965,0.9567652505522939
+Hard Voting,0.96,0.9525679269451899
